@@ -5,13 +5,11 @@ Passionate **Web Developer** with a strong focus on creating modern, user‑frie
 
 ### 📱 Social
 
-  <div class="icon-container">  
+  <div class="icon-container">
             <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="50" alt="github logo"  />
             <img width="4">
-        </a>
             <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="50" alt="instagram logo"  />
             <img width="4">
-        </a>
             <img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white&style=for-the-badge" height="50" alt="google logo"  />
         </a>
   </div>
