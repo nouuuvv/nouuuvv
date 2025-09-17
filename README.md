@@ -73,6 +73,8 @@ Passionate **Web Developer** with a strong focus on creating modern, user‑frie
 
 ###
 
+### Pacman Contribution Graph
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nouuuvv/nouuuvv/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nouuuvv/nouuuvv/output/pacman-contribution-graph.svg">
